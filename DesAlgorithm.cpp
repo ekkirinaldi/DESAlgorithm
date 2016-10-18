@@ -101,7 +101,7 @@ int main()
     l=p.substr(0,32);
     r=p.substr(32,32);
     
-    //KEY GENERATION
+    //Key Generation
     int i,t=1,j,row,col,temp,round=16;
     j=0;
     for(i=0;i<56;i++)
@@ -145,7 +145,7 @@ int main()
                  19, 13, 30,  6,
                  22, 11,  4, 25};
 
-    //SBOX CONFIG
+    //SBOX
     int s[8][4][16]=
     {{
         14,4,13,1,2,15,11,8,3,10,6,12,5,9,0,7,
@@ -271,7 +271,7 @@ int main()
             cout<<cip<<endl;
         }
                 
-    //Dekripsi
+    //DEKRIPSI
     round=16;//Round mundur
     string ltem;
     while(round--)
