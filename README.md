@@ -12,3 +12,6 @@ BACABACA12345678(p)  1234567812345678(k)
 Round 16 Enkripsi => 9B08CDEE40939051 || Round 16 Dekripsi => BACABACA12345678
 
 Keterangan lebih lanjut ada pada sourcecode
+
+Kelompok 10(Ekki Rinaldi)
+Kontribusi : Koding program
